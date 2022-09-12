@@ -1,6 +1,13 @@
-Features: 
-Restaurants for current position,
-Move around map for new locations,
-Use search query to get to any place or city on earth,
-User can visit any place,
-Retrieve lots of data about restaurants and hotels and attractions
+
+
+## React Web App - Travel Advisor 
+#### Built using React.js using Google Maps API + Places API from RapidAPI fetched with Axios. 
+#### Features: 
+Restaurants for current position.
+Move around the map for any locations.
+Search query to get to any place or city on earth.
+Users can visit any place.
+Get the ratings for any restaurants, hotels and, attractions 
+Retrieve lots of data about restaurants and hotels and attractions in your location or any other location in the world.
+#### DOMAIN:
+#### https://stalwart-mochi-0c4610.netlify.app/
