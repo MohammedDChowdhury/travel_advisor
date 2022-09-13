@@ -10,4 +10,4 @@ Users can visit any place.
 Get the ratings for any restaurants, hotels and, attractions 
 Retrieve lots of data about restaurants and hotels and attractions in your location or any other location in the world.
 #### DOMAIN:
-#### https://stalwart-mochi-0c4610.netlify.app/
+#### https://lovely-granita-a4b517.netlify.app/
