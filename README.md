@@ -17,7 +17,7 @@
 ### Retrieve lots of data about restaurants and hotels and attractions in your location or any other location in the world ✔
 
 ### DOMAIN:
-### https://lovely-granita-a4b517.netlify.app/
+### https://travel-adv-webapp.netlify.app/
 
 
 
