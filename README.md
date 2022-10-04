@@ -4,7 +4,7 @@
 ### Built using React.js using Google Maps API + Places API from RapidAPI fetched with Axios. 
 ### Features: 
 
-### Restaurants for current position ✔
+### Restaurants for current position/location ✔
 
 ### Move around the map for any locations ✔
 
