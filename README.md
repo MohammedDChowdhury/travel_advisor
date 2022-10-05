@@ -12,7 +12,7 @@
 
 ### Users can visit any place ✔
 
-### Get the ratings for any restaurants, hotels and, attractions ✔
+### Get the ratings for any restaurants, hotels, and attractions ✔
 
 ### Retrieve lots of data about restaurants and hotels and attractions in your location or any other location in the world ✔
 
